@@ -1,4 +1,4 @@
-package entity;
+package com.thushara.task_manager_backend.model.entity;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotBlank;

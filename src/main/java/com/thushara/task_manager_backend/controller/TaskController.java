@@ -1,7 +1,7 @@
 package com.thushara.task_manager_backend.controller;
 
 import com.thushara.task_manager_backend.service.TaskService;
-import entity.Task;
+import com.thushara.task_manager_backend.model.entity.Task;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

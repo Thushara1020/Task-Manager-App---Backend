@@ -1,7 +1,7 @@
 package com.thushara.task_manager_backend.service;
 
 import com.thushara.task_manager_backend.repository.TaskRepository;
-import entity.Task;
+import com.thushara.task_manager_backend.model.entity.Task;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
